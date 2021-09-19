@@ -1,0 +1,219 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+  display: flex;
+  display:;
+   
+}
+.logo{
+    width:20%;
+}
+.list{
+    width: 60%;
+}
+.logo img{
+    height: 5rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+li{
+    float: left;
+    list-style-type: none;
+    font-size: 1.5rem;
+    padding: 20px;
+
+}
+.list{
+    margin-left: 7rem;
+    margin-top: 2rem;
+}
+.top{
+    display: block;
+    background-color: rgb(129, 238, 4);
+    color:blue;
+}
+.hero{
+    background-image: url(https://dev-pran-foods.pantheonsite.io/sites/default/files/home-slider-imgx75_0.jpg);
+    height: 30rem;
+    background-position: center center;
+    background-size: cover;
+}
+.hero h1{
+    text-align: center;
+    padding-top:8rem ;
+    color: greenyellow;
+}
+.hero p{
+    font-size: 20px;
+    text-align: center;
+    color:greenyellow ;
+}
+.part1{
+width: 45%;
+}
+.part2{
+    width: 50%;
+    }
+    .part{
+        display: flex;
+        background-image: url(./back.jpg);
+        height: 30rem;
+        margin-bottom: 5rem;
+    }
+    .part2 img{
+        height:20rem;
+        width:20rem;
+        border-radius:40px;
+        margin-top: 4rem;
+        margin-left:8rem;
+    }
+    .part1 h2{
+        padding-top:7rem;
+        font-size: 2rem;
+        margin-left: 3rem;
+       
+    }
+    .part1 p{
+        padding-top: 1.5rem;
+        padding-left: 3rem;
+        font-size: 20px;
+        text-align: center;
+    }
+    .a h1{
+        text-align: center;
+        text-align: center;
+        font-size: 2.5rem;
+        padding-top:4rem;
+        padding-bottom: 3rem;
+      font-style: italic;
+    }
+   .b h1{
+       text-align: center;
+       font-style: italic;
+   }
+   .pic img{
+       height:10rem;
+       width: 7rem;
+       border: 1px solid white;
+       border-radius: 50%;
+       margin-left: 4rem;
+       margin-top: 1rem;
+   }
+   .card1{
+       width: 30%;
+       border: 2px solid white;
+       height: 28rem;
+       width: 15rem;
+       margin-left: 4rem;
+       margin-right: 4rem;
+       margin-top: 4rem;
+       background-color: blue;
+       color: white;
+       border-radius: 20px;
+      box-shadow: 10px 10px 10px rgb(80, 80, 240);
+   }
+   .card{
+       display: flex;
+
+   }
+   .card2{
+    width: 30%;
+    border: 2px solid black;
+    height: 28rem;
+    width: 15rem;
+   
+       margin-right: 4rem;
+       margin-top: 4rem;
+       background-color: blue;
+       color: white;
+       border-radius: 20px;
+       box-shadow: 10px 10px 10px rgb(80, 80, 240);
+}
+.card3{
+    width: 30%;
+    border: 2px solid black;
+    height: 28rem;
+    width: 15rem;
+    
+       margin-right: 4rem;
+       margin-top: 4rem;
+       background-color: blue;
+       color: white;
+       border-radius: 20px;
+       box-shadow: 10px 10px 10px rgb(80, 80, 240);
+}
+.card1 h1{
+    text-align: center;
+    font-style: italic;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+.card2 h1{
+    text-align: center;
+    font-style: italic;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+.card3 h1{
+    text-align: center;
+    font-style: italic;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+.card1 p{
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 2rem;
+}
+.card2 p{
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 2rem;
+}
+.card3 p{
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 2rem;
+}
+.btn{
+    height: 2.5rem;
+    width:6rem;
+    margin-left: 4.5rem;
+    margin-bottom: 2rem;
+    background-color: white;
+    color: blue;
+    border-radius: 20px;
+}
+.owner{
+    margin-top: 4rem;
+    display: flex;
+    background-color: rgb(231, 220, 222);
+    margin-bottom: 6rem;
+}
+.p h1{
+    font-size: 3rem;
+    padding-top: 5rem;
+
+    padding-bottom: 2rem;
+    color: rgb(8, 12, 255);
+    text-align: center;
+}
+.g img{
+    height: 25rem;
+    width:35rem;
+    
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+
+}
+.p p{
+    font-size: 22px;
+    margin-left: 2rem;
+    text-align: center;
+    margin-right: 6rem;
+}

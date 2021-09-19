@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(203, 240, 144);
+    color: white;
+}
+footer{
+    background-color: rgb(241, 241, 104);
+}
+section button{
+    background-color: blue;
+    color: white;
+}
